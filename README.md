@@ -16,8 +16,11 @@ Reducir la intervención manual en tareas repetitivas como generación de report
 ## 📁 Estructura
 
 /n8n-flows → Flujos exportados en JSON desde n8n
+
 /power-automate → Flujos empaquetados desde Power Automate
+
 /docs → Manuales, guías de uso e implementación
+
 /images → Capturas de pantalla o diagramas del flujo
 
 
