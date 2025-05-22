@@ -1,6 +1,3 @@
-# RPA-Automatizacion
-RPA - Automatizacion de procesos | tareas repetitivas | procesos automaticos
-
 # 🤖 RPA-Automatización
 
 Repositorio de flujos automatizados desarrollados con **n8n** y **Power Automate**, orientados a la mejora de procesos empresariales relacionados con sistemas ERP, gestión documental y operaciones rutinarias.
