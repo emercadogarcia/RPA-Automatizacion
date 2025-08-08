@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# RPA-Automatizacion
+RPA - Automatizacion de procesos | tareas repetitivas | procesos automaticos
+
+>>>>>>> 479ca33 (primer commit)
 # 🤖 RPA-Automatización
 
 Repositorio de flujos automatizados desarrollados con **n8n** y **Power Automate**, orientados a la mejora de procesos empresariales relacionados con sistemas ERP, gestión documental y operaciones rutinarias.

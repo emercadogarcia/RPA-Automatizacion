@@ -16,3 +16,20 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+# archivos que no se incluye
+Creacion-flujo-telegram.md
+# carpeta para evitar guardar
+config-n8n/
+docs/
+>>>>>>> bbc5d4e (actualizando data)
+
+# cambios aplicados.
+>>>>>>> 9e47da3 (actualizacion datos)
+>>>>>>> 479ca33 (primer commit)
